@@ -23,7 +23,7 @@ from sklearn.metrics import accuracy_score , r2_score
 # In[137]:
 
 
-df = pd.read_csv(r"C:\Users\hplap\Downloads\archive (17)\Titanic-Dataset.csv")
+df = pd.read_csv(r"Titanic-Dataset.csv")
 
 
 # In[138]:
